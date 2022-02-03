@@ -12,7 +12,9 @@ import java.util.Scanner;
  * 5 hearts
  * 1 clubs
  * ... 7 cards
- * @author  Harkirat Bonkra/991614288
+ *@author sivagamasrinivasan
+ *@modifier Harkirat Bonkra/991614288
+ *Date:02/02/2022
  * 
  */
 public class CardTrick {
