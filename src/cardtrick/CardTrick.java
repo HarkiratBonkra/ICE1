@@ -12,7 +12,7 @@ package cardtrick;
  * 1 clubs
  * ... 7 cards
  * @author sivagamasrinivasan
- * @modifier Harkirat Bonkra/991614288
+ * Modifier Harkirat Bonkra/991614288
  * Date:02/02/2022
  * 
  */
