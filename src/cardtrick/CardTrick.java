@@ -5,18 +5,18 @@
  */
 package cardtrick;
 
-import java.util.Scanner;
 /** step 1: generate 7 random cards and store in array 
  * 52 deck size: 
  * 2 spades
  * 5 hearts
  * 1 clubs
  * ... 7 cards
- *@author sivagamasrinivasan
- *@modifier Harkirat Bonkra/991614288
- *Date:02/02/2022
+ * @author sivagamasrinivasan
+ * @modifier Harkirat Bonkra/991614288
+ * Date:02/02/2022
  * 
  */
+import java.util.Scanner;
 public class CardTrick {
 
     /**
