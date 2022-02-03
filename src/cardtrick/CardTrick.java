@@ -5,7 +5,7 @@
  */
 package cardtrick;
 
-/** step 1: generate 7 random cards and store in array 
+/* step 1: generate 7 random cards and store in array 
  * 52 deck size: 
  * 2 spades
  * 5 hearts
