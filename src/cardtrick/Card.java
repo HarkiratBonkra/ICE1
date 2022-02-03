@@ -44,5 +44,16 @@ public class Card
         this.suit = suit;
     }
     
+    public int randomValue(){
+        double number = (1 + Math.random()*13);
+        return(int) number;
+    }
+    
+    public String randomSuit(){
+        
+        double suit = (int) (Math.random()*4);
+        return SUITS[(int) Math.floor(suit)];
+        
+    }
     
 }
