@@ -14,7 +14,6 @@ package cardtrick;
  * @author sivagamasrinivasan
  * @modifier Harkirat Bonkra/991614288
  * Date:02/02/2022
- * 
  */
 import java.util.Scanner;
 public class CardTrick {
